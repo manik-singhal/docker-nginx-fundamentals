@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Docker temporary files
+docker-data/
